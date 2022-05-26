@@ -1,6 +1,6 @@
 # 5月22日某公园到底发生了什么事 JPG版本
 
-![](/main/screen0.jpg)
+![](/screen0.jpg)
 
 ![](https://github.com/whomads/Dao_Di_Fa_Sheng_Le_Shen_Me_Shi-JPG/blob/main/screen2.jpg)
 

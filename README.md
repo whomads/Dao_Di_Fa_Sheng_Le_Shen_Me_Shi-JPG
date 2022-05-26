@@ -2,10 +2,10 @@
 
 ![](/screen0.jpg)
 
-![](https://github.com/whomads/Dao_Di_Fa_Sheng_Le_Shen_Me_Shi-JPG/blob/main/screen2.jpg)
+![](/screen2.jpg)
 
-![](https://github.com/whomads/Dao_Di_Fa_Sheng_Le_Shen_Me_Shi-JPG/blob/main/screen3.jpg)
+![](/screen3.jpg)
 
-![](https://github.com/whomads/Dao_Di_Fa_Sheng_Le_Shen_Me_Shi-JPG/blob/main/screen4.jpg)
+![](/screen4.jpg)
 
 原图被部分删节，以去除可能被用于追踪原作者的信息
